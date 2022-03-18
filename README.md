@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Daniel 👋
 
-<!--
-**PaulusTM/PaulusTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Principal Consultant** and **Azure MVP** at [Bryte Blue](https://bryte.blue) where I help customers in their Cloud Native journey on Microsoft Azure.
+I'm a huge fan of open source software and use a lot of CNCF projects on a daily basis.
 
-Here are some ideas to get you started:
+I :heart: organising meetups and conferences:
+- [devopsdays Amsterdam & Eindhoven](https://www.devopsdays.org/)
+- [Go Azure Meetup](https://www.meetup.com/Go-Azure/)
+- [Azure Kubernetes Service Meetup](https://www.meetup.com/azure-kubernetes-service)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Here are some other places you can find me on the internet:
+
+- [Twitter](https://twitter.com/PaulusTM)
+- [Website](https://danielpaulus.com)
+- [LinkedIn](https://www.linkedin.com/in/danielpaulus/)
