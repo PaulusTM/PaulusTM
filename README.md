@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-I'm a **Managing Consultant** and **Azure MVP** at [Delegate](https://delegate.dk/en) where I help customers in their Cloud Native journey on Microsoft Azure.
+I'm a **Managing Specialist** and **Azure MVP** at [Delegate](https://delegate.dk/en) where I help customers in their Cloud Native journey on Microsoft Azure.
 I'm a huge fan of open source software and use a lot of CNCF projects on a daily basis.
 
 I :heart: organizing meetups and conferences:
